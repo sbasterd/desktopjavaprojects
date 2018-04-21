@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="CityCompanyManager:war exploded" />
+      <artifact name="Servlet Session-practice:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b73589c-b11c-4f6d-963b-5f5d9eaddc26" name="Default" comment="" />
+    <list default="true" id="2d60a435-0758-4758-9028-a43ce3edf710" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/basterdios/DestinationPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/basterdios/UserLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/Login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CityCompanyManager/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CityCompanyManager/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,22 +21,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="CityCompanyManager" />
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ThreadSafeServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/ThreadSafeServlet.java">
+      <file leaf-file-name="UserLogin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/basterdios/UserLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="49" />
+            <state relative-caret-position="297">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -40,12 +54,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/servlet/MainMenuResponder.java" />
+        <option value="$PROJECT_DIR$/web/Login.html" />
+        <option value="$PROJECT_DIR$/src/com/basterdios/DestinationPage.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/company/citymanagerweb/servlet/ThreadSafeGetSeed.java" />
-        <option value="$PROJECT_DIR$/src/company/citymanagerweb/servlet/ThreadSafeRequest.java" />
-        <option value="$PROJECT_DIR$/web/index3.html" />
-        <option value="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/servlet-api.jar!/javax/servlet/ServletContext.class" />
+        <option value="$PROJECT_DIR$/src/com/basterdios/UserLogin.java" />
       </list>
     </option>
   </component>
@@ -68,6 +80,9 @@
     <option name="width" value="1761" />
     <option name="height" value="844" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -83,32 +98,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CityCompanyManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CityCompanyManager" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlet Session-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servlet Session-practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CityCompanyManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CityCompanyManager" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlet Session-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servlet Session-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CityCompanyManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CityCompanyManager" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlet Session-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servlet Session-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="basterdios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CityCompanyManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CityCompanyManager" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlet Session-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servlet Session-practice" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CityCompanyManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CityCompanyManager" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlet Session-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servlet Session-practice" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -116,22 +134,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\basterd\IdeaProjects\CityCompanyManager\src\company\citymanagerweb\servlet" />
-      <recent name="C:\Users\basterd\IdeaProjects\CityCompanyManager\src" />
-      <recent name="C:\Users\basterd\IdeaProjects\CityCompanyManager\web" />
-    </key>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,14 +160,14 @@
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.50">
     <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
-        <artifact name="CityCompanyManager:war exploded">
+        <artifact name="Servlet Session-practice:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_50_CityCompanyManager" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_50_Servlet_Session-practice" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -180,7 +192,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="CityCompanyManager:war exploded" />
+          <artifact name="Servlet Session-practice:war exploded" />
         </option>
       </method>
     </configuration>
@@ -269,25 +281,23 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b73589c-b11c-4f6d-963b-5f5d9eaddc26" name="Default" comment="" />
-      <created>1524325112353</created>
+      <changelist id="2d60a435-0758-4758-9028-a43ce3edf710" name="Default" comment="" />
+      <created>1524327641937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524325112353</updated>
-      <workItem from="1524325122797" duration="2333000" />
+      <updated>1524327641937</updated>
+      <workItem from="1524327648879" duration="1052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2333000" />
+    <option name="totallyTimeSpent" value="1052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -299,19 +309,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13539445" sideWeight="0.4915254" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.48751357" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5124864" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1328125" sideWeight="0.5084746" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -322,8 +332,8 @@
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -335,22 +345,21 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13539445" sideWeight="0.4915254" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.48751357" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5124864" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1328125" sideWeight="0.5084746" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,213 +373,164 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1523723390418" expanded="true" signature="21:1109" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="28:99" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="106:1101" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="186:1093" ph="..." />
-            <marker date="1523723390418" expanded="false" signature="204:214" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="215:1080" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="223:333" ph="..." />
-            <marker date="1523723390418" expanded="false" signature="240:250" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="266:324" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="341:415" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="350:406" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="423:721" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="432:712" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="480:702" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="512:547" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="579:617" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="649:686" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="729:968" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="738:959" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="976:1063" ph="..." />
-            <marker date="1523723390418" expanded="true" signature="985:1054" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/MainMenuResponder.java">
+    <entry file="file://$PROJECT_DIR$/Servlet Session-practice.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524327647491" expanded="true" signature="4:147" ph="..." />
+            <marker date="1524327647491" expanded="true" signature="223:304" ph="..." />
+            <marker date="1524327647491" expanded="true" signature="232:269" ph="..." />
+            <marker date="1524327647491" expanded="true" signature="278:296" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/basterdios/sessionservlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/basterdios/DestinationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <marker date="1524328450311" expanded="false" signature="32:334" ph="..." />
+            <marker date="1524328450311" expanded="true" signature="543:551" ph="{}" />
+            <marker date="1524328450311" expanded="true" signature="673:1173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <marker date="1524327954777" expanded="true" signature="31:768" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="38:103" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="110:760" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="181:752" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="193:744" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="206:380" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="223:280" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="297:366" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="393:569" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="410:467" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="484:555" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="582:731" ph="..." />
+            <marker date="1524327954777" expanded="true" signature="625:717" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="198">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
-            <marker date="1524325666981" expanded="true" signature="90:858" ph="..." />
-            <marker date="1524325666981" expanded="true" signature="306:464" ph="..." />
-            <marker date="1524325666981" expanded="true" signature="486:621" ph="..." />
-            <marker date="1524325666981" expanded="true" signature="641:744" ph="..." />
-            <marker date="1524325666981" expanded="true" signature="768:842" ph="..." />
+            <marker date="1524328504662" expanded="true" signature="90:400" ph="..." />
+            <marker date="1524328504662" expanded="true" signature="316:389" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/MainMenuResponder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/basterdios/UserLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1523726108141" expanded="false" signature="48:312" ph="..." />
-            <marker date="1523726108141" expanded="true" signature="314:371" ph="/**...*/" />
-            <marker date="1523726108141" expanded="true" signature="515:558" ph="/**...*/" />
-            <marker date="1523726108141" expanded="true" signature="587:644" ph="{...}" />
-            <marker date="1523726108141" expanded="true" signature="647:749" ph="/**...*/" />
-            <marker date="1523726108141" expanded="true" signature="870:990" ph="{...}" />
-            <marker date="1523726108141" expanded="true" signature="993:1096" ph="/**...*/" />
-            <marker date="1523726108141" expanded="true" signature="1218:2315" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/MainMenuResponderHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1523836723708" expanded="false" signature="48:312" ph="..." />
-            <marker date="1523836723708" expanded="true" signature="314:377" ph="/**...*/" />
-            <marker date="1523836723708" expanded="true" signature="532:575" ph="/**...*/" />
-            <marker date="1523836723708" expanded="true" signature="610:667" ph="{...}" />
-            <marker date="1523836723708" expanded="true" signature="670:772" ph="/**...*/" />
-            <marker date="1523836723708" expanded="true" signature="893:1013" ph="{...}" />
-            <marker date="1523836723708" expanded="true" signature="1016:1119" ph="/**...*/" />
-            <marker date="1523836723708" expanded="true" signature="1241:2131" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/MainMenuResponderTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1523837306377" expanded="false" signature="48:324" ph="..." />
-            <marker date="1523837306377" expanded="true" signature="326:386" ph="/**...*/" />
-            <marker date="1523837306377" expanded="true" signature="535:578" ph="/**...*/" />
-            <marker date="1523837306377" expanded="true" signature="610:667" ph="{...}" />
-            <marker date="1523837306377" expanded="true" signature="670:772" ph="/**...*/" />
-            <marker date="1523837306377" expanded="true" signature="893:1013" ph="{...}" />
-            <marker date="1523837306377" expanded="true" signature="1016:1119" ph="/**...*/" />
-            <marker date="1523837306377" expanded="true" signature="1241:1850" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/ServletParameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1523841421339" expanded="false" signature="48:312" ph="..." />
-            <marker date="1523841421339" expanded="true" signature="314:371" ph="/**...*/" />
-            <marker date="1523841421339" expanded="true" signature="511:554" ph="/**...*/" />
-            <marker date="1523841421339" expanded="true" signature="583:640" ph="{...}" />
-            <marker date="1523841421339" expanded="true" signature="643:745" ph="/**...*/" />
-            <marker date="1523841421339" expanded="true" signature="866:1235" ph="{...}" />
-            <marker date="1523841421339" expanded="true" signature="1238:1341" ph="/**...*/" />
-            <marker date="1523841421339" expanded="true" signature="1463:1532" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/ServletParameters2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1523841157401" expanded="false" signature="48:312" ph="..." />
-            <marker date="1523841157401" expanded="true" signature="314:372" ph="/**...*/" />
-            <marker date="1523841157401" expanded="true" signature="514:557" ph="/**...*/" />
-            <marker date="1523841157401" expanded="true" signature="587:644" ph="{...}" />
-            <marker date="1523841157401" expanded="true" signature="647:749" ph="/**...*/" />
-            <marker date="1523841157401" expanded="true" signature="870:1248" ph="{...}" />
-            <marker date="1523841157401" expanded="true" signature="1251:1354" ph="/**...*/" />
-            <marker date="1523841157401" expanded="true" signature="1476:1545" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/ThreadSafeRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1524325892561" expanded="false" signature="48:312" ph="..." />
-            <marker date="1524325892561" expanded="true" signature="314:371" ph="/**...*/" />
-            <marker date="1524325892561" expanded="true" signature="514:557" ph="/**...*/" />
-            <marker date="1524325892561" expanded="true" signature="586:643" ph="{...}" />
-            <marker date="1524325892561" expanded="true" signature="646:748" ph="/**...*/" />
-            <marker date="1524325892561" expanded="true" signature="869:1928" ph="{...}" />
-            <marker date="1524325892561" expanded="true" signature="1931:2034" ph="/**...*/" />
-            <marker date="1524325892561" expanded="true" signature="2156:2225" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <marker date="1524326038276" expanded="true" signature="21:718" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="28:99" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="106:710" ph="..." />
-            <marker date="1524326038276" expanded="false" signature="123:135" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="136:702" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="143:692" ph="..." />
-            <marker date="1524326038276" expanded="false" signature="159:171" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="172:684" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="220:675" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="315:375" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="433:495" ph="..." />
-            <marker date="1524326038276" expanded="true" signature="544:601" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/servlet-api.jar!/javax/servlet/ServletContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="75" column="41" lean-forward="false" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="41" />
+        <state relative-caret-position="297">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/ThreadSafeGetSeed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-          <folding>
-            <marker date="1524325892531" expanded="false" signature="48:283" ph="..." />
-            <marker date="1524325892531" expanded="true" signature="285:342" ph="/**...*/" />
-            <marker date="1524325892531" expanded="true" signature="485:528" ph="/**...*/" />
-            <marker date="1524325892531" expanded="true" signature="557:614" ph="{...}" />
-            <marker date="1524325892531" expanded="true" signature="617:719" ph="/**...*/" />
-            <marker date="1524325892531" expanded="true" signature="840:960" ph="{...}" />
-            <marker date="1524325892531" expanded="true" signature="963:1066" ph="/**...*/" />
-            <marker date="1524325892531" expanded="true" signature="1188:1824" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/citymanagerweb/servlet/ThreadSafeServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Servlet Session-practice:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Servlet Session-practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
