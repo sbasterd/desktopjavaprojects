@@ -18,9 +18,11 @@ public class UserLogin extends HttpServlet {
         session.setAttribute("userAuthLevel", authLevel);
 
         if (authLevel < 1 || uid == null || uid == ""){
-            response.sendRedirect("Login.html");
+//            response.sendRedirect("Login.html");
+            response.sendRedirect(response.encodeRedirectURL("Login.html"));
         }else{
-            response.sendRedirect("/destinationpage.do");
+//            response.sendRedirect("/destinationpage.do");
+            response.sendRedirect(response.encodeRedirectURL("/destinationpage.do"));
         }
     }
 
