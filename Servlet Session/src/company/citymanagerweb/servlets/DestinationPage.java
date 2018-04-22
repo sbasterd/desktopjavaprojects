@@ -19,8 +19,10 @@ public class DestinationPage extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         HttpSession s = request.getSession();
+        out.println(s.isNew());
+        String uid = (String) s.getAttribute("userName");
+        out.println("<html><body><p>" + uid + "</p></body></html>");
         if (s != null && !s.isNew() && s.getAttribute("userName") != null) {
-            String uid = (String) s.getAttribute("userName");
             out.println("<html><body><span>Welcome </span>&nbsp;<strong>" + uid + "</strong></body></html>");
         } else {
             out.println("<html><body><span>Unauthorized</span></body></html>");

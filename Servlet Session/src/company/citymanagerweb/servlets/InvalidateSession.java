@@ -12,7 +12,6 @@ import java.io.PrintWriter;
 @WebServlet("/invalidatesession.do")
 public class InvalidateSession extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
